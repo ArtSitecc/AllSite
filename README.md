@@ -2,7 +2,7 @@
 
 [ChenJianpeng.art](http://chenjianpeng.art) / [ChenJianpeng.com](http://chenjianpeng.com) / [ChenJianpeng.cn](http://chenjianpeng.cn) / [ChenJianpeng.cc](http://chenjianpeng.cc) /
 
-[BlackChan.cc](http://blackchan.cc)
+[BlackChan.cc](http://blackchan.cc) /
 
 
 [ArtBlockChain.cc](http://artblockchain.cc) / [ArtBlockChain.art](http://artblockchain.art) /
