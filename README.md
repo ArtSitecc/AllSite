@@ -4,7 +4,7 @@
 
 [ChenJianpeng.art](http://chenjianpeng.art) / [ChenJianpeng.com](http://chenjianpeng.com) / [ChenJianpeng.cn](http://chenjianpeng.cn) / [ChenJianpeng.cc](http://chenjianpeng.cc) /
 
-[Davidchen.cc](http://davidchen.cc) /
+[DavidChen.cc](http://davidchen.cc) /
 
 
 # BlockChain
@@ -84,7 +84,7 @@
 [ArtTrust.cc](http://arttrust.cc) /
 艺术信任 /
 
-[Artbelief.cc](http://artbelief.cc) / [ArtFaith.cc](http://artfaith.cc) /
+[ArtBelief.cc](http://artbelief.cc) / [ArtFaith.cc](http://artfaith.cc) /
 艺术信仰 /
 
 [ArtCloud.cc](http://artcloud.cc) /
@@ -136,7 +136,7 @@
 
 [BTC5678.cc](http://btc5678.com) / [BTC5678.cn](http://btc5678.cn) / [BTC5678.cc](http://btc5678.cc) /
 
-[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc)
+[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc) /
 
 
 # Art
