@@ -15,7 +15,7 @@
 [ArtBlockChain.cc](http://artblockchain.cc) / [ArtBlockChain.art](http://artblockchain.art) /
 艺术区块链 /
 
-[Artblock.cc](http://artblock.cc) /
+[ArtBlock.cc](http://artblock.cc) /
 艺术区块 /
 
 [ArtCoin.cc](http://artcoin.cc) /
