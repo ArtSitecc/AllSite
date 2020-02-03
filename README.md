@@ -127,6 +127,7 @@
 [CoinOTC.cc](http://coinotc.cc) /
 币外 /
 
+[ArtUSDT.cc](http://artusdt.cc) / [USDToken.cc](http://usdtoken.cc) / [USDCoin.cc](http://usdcoin.cc) /
 
 [ABlock.art](http://ablock.art) /
 
@@ -136,10 +137,11 @@
 
 [1Block.art](http://1block.art) / [1Chain.art](http://1chain.art) / [1Token.art](http://1token.art) /
 
+[ABCMint.cc](http://abcmint.cc) / [ABCCore.cc](http://abccore.cc) / [ABCCoin.cc](http://abccoin.cc) /
 
 [BTC5678.cc](http://btc5678.com) / [BTC5678.cn](http://btc5678.cn) / [BTC5678.cc](http://btc5678.cc) /
 
-[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc) /
+[Bit5678.com](http://bit5678.com) / [Bit5678.cn](http://bit5678.cn) / [Bit5678.cc](http://bit5678.cc) /
 
 
 # Art
@@ -691,7 +693,7 @@
 
 #
 
-[ArtHill.cc](http://arthill.cc) /  [ArtHill.group](http://arthill.group) / [ArtHill.store](http://arthill.store) / [ArtHill.shop](http://arthill.shop) /
+[ArtHill.cc](http://arthill.cc) / [ArtHill.group](http://arthill.group) / [ArtHill.store](http://arthill.store) / [ArtHill.shop](http://arthill.shop) /
 
 [ArtLOGO.cn](http://artlego.cn) /
 
@@ -703,68 +705,58 @@
 
 #
 
-# Notto
+Notto
 
 [Notto.cn](http://notto.cn) / [Notto.cc](http://notto.cc) /
 
 [NottoArt.com](http://nottoart.com) / [NottoArt.cn](http://nottoart.cn) / [NottoArt.cc](http://nottoart.cc) /
 
 
-# Mov
+Mov
 
 [AiMov.cc](http://aimov.cc) / [VCine.cc](http://vcine.cc) / [Vmov.cc](http://vmov.cc) /
 
 
-# Cinefex
+Cinefex
 
 [Cinefex.cn](http://cinefex.cn) / [Cinefex.cc](http://cinefex.cc) /
 
 
-# Schopenhauer
+Schopenhauer
 
 [Schopenhauer.cn](http://schopenhauer.cn) / [Schopenhauer.cn](http://schopenhauer.cc) /
 
 
-# TianJiYao
+TianJiYao
 
 [TianJiYao.com](http://tianjiyao.com) /
 
 
-# ABCMint
-
-[ABCMint.cc](http://abcmint.cc) / [ABCCore.cc](http://abccore.cc) / [ABCCoin.cc](http://abccoin.cc) /
-
-
-# USD
-
-[ArtUSDT.cc](http://artusdt.cc) / [USDToken.cc](http://USDToken.cc) / [USDCoin.cc](http://usdcoin.cc) /
-
-
-# INSOME
+InSome
 
 [Insome.cc](http://insome.cc) / [Insome.Art](http://insome.art) /
 
 
-# UCCA
+UCCA
 
 [UCCA.cc](http://ucca.cc) / [UCCA.store](http://ucca.store) / [UCCA.shop](http://ucca.shop) /
 
 
-# DongYing
+DongYing
 
 [ArtDongying.com](http://artdongying.com) / [ArtDongying.cn](http://artdongying.cn) / [ArtDongying.cc](http://artdongying.cc) / [ArtDongying.art](http://artdongying.art) / [ArtDong.cc](http://artdong.cc) / [ArtYing.cc](http://artying.cc) / [Dongying.design](http://dongying.design) /
 
 
-# BYEBYE
+ByeBye
 
-[BYEBYE.Design](http://byebye.design) /
+[ByeBye.Design](http://byebye.design) /
 
 
-# ZAIZAO
+ZaiZao
 
 [ZaiZao.Design](http://zaizao.design) /
 
 
-# Longshan
+Longshan
 
 [LongshanTemple](http://longshantemple.cc) / [LongshanAcademy](http://longshanacademy.cc) / [LongshanMuseum.cc](http://longshanmuseum.cc) /
