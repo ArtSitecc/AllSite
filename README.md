@@ -834,12 +834,12 @@
 
 # SoulLibrary
 
-soullibrary.art](http://soullibrary.art) / soullibrary.cc](http://soullibrary.cc) /
+[SoulLibrary.art](http://soullibrary.art) / [SoulLibrary.cc](http://soullibrary.cc) /
 灵魂图书馆 /
 
-artsoullibrary.com](http://artsoullibrary.com) / artsoullibrary.cc](http://artsoullibrary.cc) /
+[ArtSoulLibrary.com](http://artsoullibrary.com) / [ArtsoulLibrary.cc](http://artsoullibrary.cc) /
 
-soulbook.cc](http://soulbook.cc) / artsoulbook.cc](http://artsoulbook.cc) /
+[SoulBook.cc](http://soulbook.cc) / [ArtSoulBook.cc](http://artsoulbook.cc) /
 
 
 # ArtDongYing
