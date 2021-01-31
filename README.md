@@ -837,7 +837,7 @@
 [SoulLibrary.art](http://soullibrary.art) / [SoulLibrary.cc](http://soullibrary.cc) /
 灵魂图书馆 /
 
-[ArtSoulLibrary.com](http://artsoullibrary.com) / [ArtsoulLibrary.cc](http://artsoullibrary.cc) /
+[ArtSoulLibrary.com](http://artsoullibrary.com) / [ArtSoulLibrary.cc](http://artsoullibrary.cc) /
 
 [SoulBook.cc](http://soulbook.cc) / [ArtSoulBook.cc](http://artsoulbook.cc) /
 
