@@ -37,88 +37,56 @@
 [ABCCore.cc](http://abccore.cc) / 
 抗量子ABC核心 /
 
-abccode.cc
-abccode.cc
-抗量子ABC代码
+[ABCCode.cc](http://abccode.cc) /
+抗量子ABC代码 /
 
 [ABCCoin.cc](http://abccoin.cc) /
 抗量子ABC硬币 /
 
-abccash.cc
-abccash.cc
-抗量子ABC现金
+[ABCCash.cc](http://abccash.cc) /
+抗量子ABC现金 /
 
-abcwallet.cc
-abcwallet.cc
-abcpurse.cc
-abcpurse.cc
-抗量子ABC钱包
+[ABCWallet.cc](http://abcwallet.cc) / [ABCPurse.cc](http://abcpurse.cc) /
+抗量子ABC钱包 /
 
-abcscan.cc
-abcscan.cc
-抗量子ABC区块浏览器
+[ABCScan.cc](http://abcscan.cc) /
+抗量子ABC区块浏览器 /
 
-abcardo.cc
-abcardo.cc
-抗量子ABC挖矿
+[ABCArdo.cc](http://abcardo.cc) /
+抗量子ABC挖矿 /
 
-abcmine.cc
-abcmine.cc
-抗量子ABC矿工
+[ABCMine.cc](http://abcmine.cc) /
+抗量子ABC矿工 /
 
-abcpool.cc
-abcpool.cc
-抗量子ABC矿池
+[ABCPool.cc](http://abcpool.cc) /
+抗量子ABC矿池 /
 
-abcbank.cc
-abcbank.cc
-抗量子ABC银行
+[ABCBank.cc](http://abcbank.cc) /
+抗量子ABC银行 /
 
-abcexchange.cc
-abcexchange.cc
-abcex.cc
-abcex.cc
-抗量子ABC交易
+[ABCExchange.cc](http://abcexchange.cc) / [ABCEx.cc](http://abcex.cc) /
+抗量子ABC交易 /
 
-abcabin.com
-abcabin.com
-abcabin.cc
-abcabin.cc
-abcabin.org
-abcabin.org
-abcabin.net
-abcabin.net
-抗量子ABC论坛
+[ABCAbin.com](http://abcabin.com) / [ABCAbin.cc](http://abcabin.cc) / [ABCAbin.org](http://abcabin.org) / [ABCAbin.net](http://abcabin.net) /
+抗量子ABC论坛 /
 
-abcoops.com
-abcoops.com
-abcoops.cc
-abcoops.cc
-abcoops.org
-abcoops.org
-abcoops.net
-abcoops.net
-抗量子ABC论坛
+[ABCOops.com](http://abcoops.com) / [ABCOops.cc](http://abcoops.cc) / [ABCOops.org](http://abcoops.org) / [ABCOops.net](http://abcoops.net) /
+抗量子ABC论坛 /
 
-abctalk.cc
-abctalk.cc
-抗量子ABC论坛
+[ABCTalk.cc](http://abctalk.cc) /
+抗量子ABC论坛 /
 
-abcforum.cc
-abcforum.cc
-抗量子ABC论坛
+[ABCForum.cc](http://abcforum.cc) /
+抗量子ABC论坛 /
 
-abcmint.xyz
-abcmint.xyz
-薄荷社区
+[ABCMint.xyz](http://abcmint.xyz) /
+薄荷社区 /
 
-rainbowsignature.cc
-rainbowsignature.cc
-彩虹社区
+[RainbowSignature.cc](http://rainbowsignature.cc) /
+彩虹社区 /
 
-rainbowsignature.com
-rainbowsignature.com
-彩虹签名
+[RainbowSignature.com](http://rainbowsignature.com) /
+彩虹签名 /
 
 
 # PQC
