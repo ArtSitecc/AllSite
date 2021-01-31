@@ -34,34 +34,34 @@
 [ABCMint.cc](http://abcmint.cc) / [ABCCore.cc](http://abccore.cc) / [ABCCoin.cc](http://abccoin.cc) /
 
 # PQC
-[postquantum.cc](http://postquantum.cc) /
+[PostQuantum.cc](http://postquantum.cc) /
 后量子 /
 
-[postquantumcrypto.cc](http://postquantumcrypto.cc) /
+[PostQuantumCrypto.cc](http://postquantumcrypto.cc) /
 后量子加密基金会 /
 
-[postquantumcryptography.cc](http://postquantumcryptography.cc) /
+[PostQuantumCryptography.cc](http://postquantumcryptography.cc) /
 后量子密码学 /
 
-[pqcrainbow.com](http://pqcrainbow.com) / [pqcrainbow.cc](http://pqcrainbow.cc) /
+[PQCRainbow.com](http://pqcrainbow.com) / [PQCRainbow.cc](http://pqcrainbow.cc) /
 后量子算法 彩虹签名 /
 
-[pqccoin.cc](http://pqccoin.cc) /
+[PQCCoin.cc](http://pqccoin.cc) /
 抗量子硬币 /
 
-[pqccash.com](http://pqccash.com) / [pqccash.cc](http://pqccash.cc) /
+[PQCCash.com](http://pqccash.com) / [PQCCash.cc](http://pqccash.cc) /
 抗量子现金 /
 
-[pqcbank.com](http://pqcbank.com) / [pqcbank.cc](http://pqcbank.cc) /
+[PQCBank.com](http://pqcbank.com) / [PQCBank.cc](http://pqcbank.cc) /
 抗量子银行 /
 
-[pqcex.cc](http://pqcex.cc) / [pqex.cc](http://pqex.cc) /
+[PQCEx.cc](http://pqcex.cc) / [PQEx.cc](http://pqex.cc) /
 抗量子交易 /
 
-[pqctalk.com](http://pqctalk.com) / [pqctalk.cc](http://pqctalk.cc) /
+[PQCTalk.com](http://pqctalk.com) / [PQCTalk.cc](http://pqctalk.cc) /
 后量子论坛 /
 
-[pqcforum.com](http://pqcforum.com) / [pqcforum.cc](http://pqcforum.cc) /
+[PQCForum.com](http://pqcforum.com) / [PQCForum.cc](http://pqcforum.cc) /
 抗量子论坛 /
 
 
