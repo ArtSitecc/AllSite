@@ -32,66 +32,93 @@
 # ABCMint
 
 [ABCMint.cc](http://abcmint.cc) / 
+抗量子ABC /
 
 [ABCCore.cc](http://abccore.cc) / 
-
-[ABCCoin.cc](http://abccoin.cc) /
-
-abcabin.org
-
-abcoops.org
-
-abcabin.cc
-
-abcabin.net
-
-abcabin.com
-
-abcoops.cc
-
-abcoops.net
-
-abcoops.com
-
-abccash.cc
-
-abcbank.cc
-
-abctalk.cc
-
-abcexchange.cc
-
-abcex.cc
-
-abcpurse.cc
-
-abcwallet.cc
-
-abcforum.cc
-
-abcmint.xyz
-
-abcmine.cc
-
-abcpool.cc
-
-abcscan.cc
+抗量子ABC核心 /
 
 abccode.cc
+abccode.cc
+抗量子ABC代码
+
+[ABCCoin.cc](http://abccoin.cc) /
+抗量子ABC硬币 /
+
+abccash.cc
+abccash.cc
+抗量子ABC现金
+
+abcwallet.cc
+abcwallet.cc
+abcpurse.cc
+abcpurse.cc
+抗量子ABC钱包
+
+abcscan.cc
+abcscan.cc
+抗量子ABC区块浏览器
 
 abcardo.cc
+abcardo.cc
+抗量子ABC挖矿
+
+abcmine.cc
+abcmine.cc
+抗量子ABC矿工
+
+abcpool.cc
+abcpool.cc
+抗量子ABC矿池
+
+abcbank.cc
+abcbank.cc
+抗量子ABC银行
+
+abcexchange.cc
+abcexchange.cc
+abcex.cc
+abcex.cc
+抗量子ABC交易
+
+abcabin.com
+abcabin.com
+abcabin.cc
+abcabin.cc
+abcabin.org
+abcabin.org
+abcabin.net
+abcabin.net
+抗量子ABC论坛
+
+abcoops.com
+abcoops.com
+abcoops.cc
+abcoops.cc
+abcoops.org
+abcoops.org
+abcoops.net
+abcoops.net
+抗量子ABC论坛
+
+abctalk.cc
+abctalk.cc
+抗量子ABC论坛
+
+abcforum.cc
+abcforum.cc
+抗量子ABC论坛
+
+abcmint.xyz
+abcmint.xyz
+薄荷社区
 
 rainbowsignature.cc
+rainbowsignature.cc
+彩虹社区
 
 rainbowsignature.com
-
-
-
-
-
-
-
-
+rainbowsignature.com
+彩虹签名
 
 
 # PQC
@@ -236,7 +263,14 @@ rainbowsignature.com
 [ArtTokenFintech.cc](http://arttokenfintech.cc) /
 艺术通证金融科技 /
 
-[1Block.art](http://1block.art) / [1Chain.art](http://1chain.art) / [1Token.art](http://1token.art) /
+[1Block.art](http://1block.art) / 
+一块艺术 /
+
+[1Chain.art](http://1chain.art) / 
+一链艺术 /
+
+[1Token.art](http://1token.art) /
+一证艺术 /
 
 
 # Art
