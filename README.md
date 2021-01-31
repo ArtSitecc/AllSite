@@ -1,16 +1,20 @@
 # Chen
 
-[ChenChen.art](http://chenchen.art) /
 
 [ChenJianpeng.art](http://chenjianpeng.art) / [ChenJianpeng.com](http://chenjianpeng.com) / [ChenJianpeng.cn](http://chenjianpeng.cn) / [ChenJianpeng.cc](http://chenjianpeng.cc) /
+陈健鹏 /
+
+[ChenChen.art](http://chenchen.art) /
+陈尘 艺术家 /
 
 [DavidChen.cc](http://davidchen.cc) /
+大卫・陈 艺术策展人 /
+
+[BlackChan.cc](http://blackchan.cc) /
+布拉克・陈 区块链专家 /
 
 
 # BlockChain
-
-[BlackChan.cc](http://blackchan.cc) /
-
 
 [ArtBlockChain.cc](http://artblockchain.cc) / [ArtBlockChain.art](http://artblockchain.art) /
 艺术区块链 /
@@ -725,16 +729,6 @@ ArtHill
 [ArtHill.cc](http://arthill.cc) / [ArtHill.group](http://arthill.group) / [ArtHill.store](http://arthill.store) / [ArtHill.shop](http://arthill.shop) /
 
 
-ArtLOGO
-
-[ArtLOGO.cn](http://artlego.cn) /
-
-
-ArtTool
-
-[ArtTool.cn](http://arttool.cn) /
-
-
 ArtistBook
 
 [ArtistBook.cc](http://artistbook.cc) / 
@@ -747,7 +741,7 @@ ArtMuseum
 
 ArtDongYing
 
-[ArtDongying.com](http://artdongying.com) / [ArtDongying.cn](http://artdongying.cn) / [ArtDongying.cc](http://artdongying.cc) / [ArtDongying.art](http://artdongying.art) / [ArtDong.cc](http://artdong.cc) / [ArtYing.cc](http://artying.cc) / [Dongying.design](http://dongying.design) /
+[ArtDongying.com](http://artdongying.com) / [ArtDongying.cc](http://artdongying.cc) / [ArtDongying.art](http://artdongying.art) / [ArtDong.cc](http://artdong.cc) / [ArtYing.cc](http://artying.cc) /
 
 #
 
@@ -768,24 +762,9 @@ Cinefex
 [Cinefex.cn](http://cinefex.cn) / [Cinefex.cc](http://cinefex.cc) /
 
 
-Schopenhauer
-
-[Schopenhauer.cn](http://schopenhauer.cn) / [Schopenhauer.cn](http://schopenhauer.cc) /
-
-
 TianJiYao
 
 [TianJiYao.com](http://tianjiyao.com) /
-
-
-ByeBye
-
-[ByeBye.Design](http://byebye.design) /
-
-
-ZaiZao
-
-[ZaiZao.Design](http://zaizao.design) /
 
 
 InSome
