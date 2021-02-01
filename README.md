@@ -17,8 +17,7 @@
 
 [Art5678.cc](http://art5678.cc) /
 
-# A 
-[ArtAAAA.cc](http://artaaaa.cc) /
+# A 18
 
 [ArtAcme.cc](http://artacme.cc) /
 [ArtAeon.cc](http://artaeon.cc) /
@@ -39,8 +38,7 @@
 [ArtAway.cc](http://artaway.cc) /
 [ArtAxis.cc](http://artaxis.cc) /
 
-# B 
-[ArtBBBB.cc](http://artbbbb.cc) /
+# B 26
 
 [ArtBach.cc](http://artbach.cc) /
 [ArtBack.cc](http://artback.cc) /
@@ -69,8 +67,7 @@
 [Artbowl.cc](http://artbowl.cc) /
 [ArtByte.cc](http://artbyte.cc) /
 
-# C
-[ArtCCCC.cc](http://artcccc.cc) /
+# C 27
 
 [ArtCAFA.cc](http://artcafa.cc) /
 [ArtCafe.cc](http://artcafe.cc) /
@@ -100,8 +97,7 @@
 [ArtCube.cc](http://artcube.cc) /
 [ArtCute.cc](http://artcute.cc) /
 
-# D
-[ArtDDDD.cc](http://artdddd.cc) /
+# D 18
 
 [ArtDapp.cc](http://artdapp.cc) /
 [ArtDare.cc](http://artdare.cc) /
@@ -122,8 +118,7 @@
 [ArtDump.cc](http://artdump.cc) /
 [ArtDust.cc](http://artdust.cc) /
 
-# E
-[ArtEEEE.cc](http://arteeee.cc) /
+# E 7
 
 [ArtEarn.cc](http://artearn.cc) /
 [ArtEast.cc](http://arteast.cc) /
@@ -133,8 +128,7 @@
 [ArtEtch.cc](http://artetch.cc) /
 [ArtExit.cc](http://artexit.cc) /
 
-# F
-[ArtFFFF.cc](http://artffff.cc) /
+# F 38
 
 [ArtFace.cc](http://artface.cc) /
 [ArtFact.cc](http://artfact.cc) /
@@ -175,8 +169,7 @@
 [ArtFund.cc](http://artfund.cc) /
 [ArtFunk.cc](http://artfunk.cc) /
 
-# G
-[ArtGGGG.cc](http://artgggg.cc) /
+# G 18
 
 [ArtGain.cc](http://artgain.cc) /
 [ArtGame.cc](http://artgame.cc) /
@@ -197,8 +190,7 @@
 [ArtGrid.cc](http://artgrid.cc) /
 [ArtGrit.cc](http://artgrit.cc) /
 
-# H
-[ArtHHHH.cc](http://arthhhh.cc) /
+# H 24
 
 [ArtHack.cc](http://arthack.cc) /
 [ArtHand.cc](http://arthand.cc) /
@@ -225,8 +217,7 @@
 [ArtHunt.cc](http://arthunt.cc) /
 [ArtHymn.cc](http://arthymn.cc) /
 
-# I
-[ArtIIII.cc](http://artiiii.cc) /
+# I 5
 
 [ArtIcon.cc](http://articon.cc) /
 [ArtIdea.cc](http://artidea.cc) /
@@ -234,8 +225,7 @@
 [ArtInfo.cc](http://artinfo.cc) /
 [ArtItem.cc](http://artitem.cc) /
 
-# J
-[ArtJJJJ.cc](http://artjjjj.cc) /
+# J 10
 
 [ArtJade.cc](http://artjade.cc) /
 [ArtJava.cc](http://artjave.cc) /
@@ -248,8 +238,7 @@
 [ArtJury.cc](http://artjury.cc) /
 [ArtJust.cc](http://artjust.cc) /
 
-# K
-[ArtKKKK.cc](http://artkkkk.cc) /
+# K 10
 
 [ArtKart.cc](http://artkart.cc) /
 [ArtKeep.cc](http://artkeep.cc) /
@@ -262,8 +251,7 @@
 [ArtKiss.cc](http://artkiss.cc) /
 [ArtKnow.cc](http://artknow.cc) /
 
-# L
-[ArtLLLL.cc](http://artllll.cc) /
+# L 27
 
 [ArtLabs.cc](http://artlabs.cc) /
 [ArtLamp.cc](http://artlamp.cc) /
@@ -293,8 +281,7 @@
 [ArtLuck.cc](http://artLuck.cc) /
 [ArtLust.cc](http://artlust.cc) /
 
-# M
-[ArtMMMM.cc](http://artmmmm.cc) /
+# M 34
 
 [ArtMade.cc](http://artmade.cc) /
 [ArtMail.cc](http://artmail.cc) /
@@ -331,8 +318,7 @@
 [ArtMutt.cc](http://artmutt.cc) /
 [ArtMyth.cc](http://artmyth.cc) /
 
-# N
-[ArtNNNN.cc](http://artnnnn.cc) /
+# N 13
 
 [ArtName.cc](http://artname.cc) /
 [ArtNano.cc](http://artnano.cc) /
@@ -348,8 +334,7 @@
 [ArtNova.cc](http://artnova.cc) /
 [ArtNude.cc](http://artnude.cc) /
 
-# O
-[ArtOOOO.cc](http://artoooo.cc) /
+# O 7
 
 [ArtOkay.cc](http://artokay.cc) /
 [ArtOkey.cc](http://artokey.cc) /
@@ -359,8 +344,7 @@
 [ArtOpus.cc](http://artopus.cc) /
 [ArtOven.cc](http://artoven.cc) /
 
-# P
-[ArtPPPP.cc](http://artpppp.cc) /
+# P 32
 
 [ArtPace.cc](http://artpace.cc) /
 [ArtPack.cc](http://artpack.cc) /
@@ -395,15 +379,13 @@
 [ArtPure.cc](http://artpure.cc) /
 [ArtPush.cc](http://artpush.cc) /
 
-# Q
-[ArtQQQQ.cc](http://artqqqq.cc) /
+# Q 3
 
 [ArtQuip.cc](http://artquip.cc) /
 [ArtQuit.cc](http://artquit.cc) /
 [ArtQuiz.cc](http://artquiz.cc) /
 
-# R
-[ArtRRRR.cc](http://artrrrr.cc) /
+# R 20
 
 [ArtRace.cc](http://artrace.cc) /
 [ArtRacy.cc](http://artracy.cc) /
@@ -426,8 +408,7 @@
 [ArtRuin.cc](http://artruin.cc) /
 [ArtRule.cc](http://artrule.cc) /
 
-# S
-[ArtSSSS.cc](http://artssss.cc) /
+# S 45
 
 [ArtSafe.cc](http://artsafe.cc) /
 [ArtSake.cc](http://artsake.cc) /
@@ -475,8 +456,7 @@
 [ArtSwap.cc](http://artswap.cc) /
 [ArtSwop.cc](http://artswop.cc) /
 
-# T
-[ArtTTTT.cc](http://arttttt.cc) /
+# T 25
 
 [ArtTalk.cc](http://arttalk.cc) /
 [ArtTape.cc](http://arttape.cc) /
@@ -504,15 +484,13 @@
 [ArtTurn.cc](http://artturn.cc) /
 [ArtType.cc](http://arttype.cc) /
 
-# U
-[ArtUUUU.cc](http://artuuuu.cc) /
+# U 3
 
 [ArtUber.cc](http://artuber.cc) /
 [ArtUNIX.cc](http://artunix.cc) /
 [ArtUser.cc](http://artuser.cc) /
 
-# V
-[ArtVVVV.cc](http://artvvvv.cc) /
+# V 18
 
 [ArtVain.cc](http://artvain.cc) /
 [ArtVane.cc](http://artvane.cc) /
@@ -533,8 +511,7 @@
 [ArtVoid.cc](http://artvoid.cc) /
 [ArtVote.cc](http://artvote.cc) /
 
-# W
-[ArtWWWW.cc](http://artwwww.cc) /
+# W 23
 
 [ArtWait.cc](http://artwait.cc) /
 [ArtWake.cc](http://artwake.cc) /
@@ -561,21 +538,18 @@
 [ArtWord.cc](http://artword.cc) /
 [ArtWrap.cc](http://artwrap.cc) /
 
-# X
-[ArtXXXX.cc](http://artxxxx.cc) /
+# X 2
 
 [ArtXmas.cc](http://artxmas.cc) /
 [ArtXray.cc](http://artxary.cc) /
 
-# Y
-[ArtYYYY.cc](http://artyyyy.cc) /
+# Y 3
 
 [ArtYear.cc](http://artyear.cc) /
 [ArtYoga.cc](http://artyoga.cc) /
 [ArtYour.cc](http://artyour.cc) /
 
-# Z
-[ArtZZZZ.cc](http://artzzzz.cc) /
+# Z 8
 
 [ArtZeal.cc](http://artzeal.cc) /
 [ArtZero.cc](http://artzero.cc) /
