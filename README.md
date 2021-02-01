@@ -609,7 +609,7 @@
 艺术奖金 /
 
 [ArtCurrency.cc](http://artcurrency.cc) /
-艺术货币
+艺术货币 /
 
 [ArtDigital.cc](http://artdigital.cc) /
 艺术数字 /
@@ -689,14 +689,8 @@
 [ArtFinance.cc](http://artfinance.cc) /
 艺术金融 /
 
-[ArtTokenFinance.cc](http://arttokenfinance.cc) /
-艺术通证金融 /
-
 [ArtFintech.cc](http://artfintech.cc) /
 艺术金融科技 /
-
-[ArtTokenFintech.cc](http://arttokenfintech.cc) /
-艺术通证金融科技 /
 
 [1Block.art](http://1block.art) / 
 一块艺术 /
