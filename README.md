@@ -870,7 +870,7 @@
 
 # UCCA
 
-[UCCA.cc](http://ucca.cc) / [UCCA.store](http://ucca.store) / [UCCA.shop](http://ucca.shop) /
+[UCCA.cc](http://ucca.cc) / [UCCA.store](http://ucca.store) /
 
 
 # Longshan
