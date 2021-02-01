@@ -38,19 +38,17 @@
 [ArtAway.cc](http://artaway.cc) /
 [ArtAxis.cc](http://artaxis.cc) /
 
-# B 26
+# B 23
 
 [ArtBach.cc](http://artbach.cc) /
 [ArtBack.cc](http://artback.cc) /
-[ArtBags.cc](http://artbags.cc) /
 [ArtBall.cc](http://artball.cc) /
 [ArtBang.cc](http://artbang.cc) /
 [ArtBard.cc](http://artbard.cc) /
 [ArtBase.cc](http://artbase.cc) /
 [ArtBash.cc](http://artbash.cc) /
 [ArtBean.cc](http://artbean.cc) /
-[Artbeef.cc](http://artbeef.cc) /
-[ArtBelt.cc](http://artbelt.cc) /
+[ArtBeef.cc](http://artbeef.cc) /
 [ArtBest.cc](http://artbest.cc) /
 [ArtBike.cc](http://artbike.cc) /
 [ArtBill.cc](http://artbill.cc) /
@@ -59,12 +57,11 @@
 [ArtBlog.cc](http://artblog.cc) /
 [ArtBlue.cc](http://artblue.cc) /
 [ArtBody.cc](http://artbody.cc) /
-[ArtBole.cc](http://artbole.cc) /
 [ArtBomb.cc](http://artbomb.cc) /
 [ArtBook.cc](http://artbook.cc) /
 [ArtBoot.cc](http://artboot.cc) /
-[Artborn.cc](http://artborn.cc) /
-[Artbowl.cc](http://artbowl.cc) /
+[ArtBorn.cc](http://artborn.cc) /
+[ArtBowl.cc](http://artbowl.cc) /
 [ArtByte.cc](http://artbyte.cc) /
 
 # C 27
